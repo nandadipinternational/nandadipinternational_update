@@ -1,5 +1,4 @@
-
-import { useEffect } from 'react';
+/* import { useEffect } from 'react';
 import Navbar from '@/components/Navbar';
 import HeroSection from '@/components/HeroSection';
 import CategorySection from '@/components/CategorySection';
